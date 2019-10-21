@@ -25,7 +25,7 @@
         "grunt" : "0.4.2",
         "grunt-contrib-jshint" : "0.8.0",
         "attester" : "1.2.1",
-        "express" : "3.3.5",
+        "express" : "4.17.1",
         "atpackager" : "0.2.0",
         "ariatemplates" : "*"
     }
